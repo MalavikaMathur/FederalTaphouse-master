@@ -2,7 +2,7 @@
 //  SMCategoryTableViewController.m
 //  FederalTaphouse
 //
-//  Created by Nick Woodward on 9/21/14.
+//  Created by Malavika Mathuron 9/21/14.
 //  Copyright (c) 2014 softwaremerchant. All rights reserved.
 //
 

@@ -12,20 +12,24 @@
 	<dict>
 		<key>054D2819B57B968AD918BB67626BCCEB0DC280A4</key>
 		<string>https://github.com/nick-SM/FederalTaphouse.git</string>
+		<key>1ED8F4B82BB851B234A6CF4174A5C866F50FF9FD</key>
+		<string>https://github.com/MalavikaMathur/FederalTaphouse-master.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>FederalTaphouse.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>054D2819B57B968AD918BB67626BCCEB0DC280A4</key>
+		<string>../../../FederalTaphouse</string>
+		<key>1ED8F4B82BB851B234A6CF4174A5C866F50FF9FD</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/nick-SM/FederalTaphouse.git</string>
+	<string>https://github.com/MalavikaMathur/FederalTaphouse-master.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>054D2819B57B968AD918BB67626BCCEB0DC280A4</string>
+	<string>1ED8F4B82BB851B234A6CF4174A5C866F50FF9FD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>054D2819B57B968AD918BB67626BCCEB0DC280A4</string>
 			<key>IDESourceControlWCCName</key>
 			<string>FederalTaphouse</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1ED8F4B82BB851B234A6CF4174A5C866F50FF9FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FederalTaphouse-master-4</string>
 		</dict>
 	</array>
 </dict>

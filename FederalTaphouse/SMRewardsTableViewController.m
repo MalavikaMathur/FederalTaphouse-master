@@ -2,7 +2,7 @@
 //  SMRewardsTableViewController.m
 //  FederalTaphouse
 //
-//  Created by Nick Woodward on 9/25/14.
+//  Created by Malavika Mathuron 9/25/14.
 //  Copyright (c) 2014 softwaremerchant. All rights reserved.
 //
 
